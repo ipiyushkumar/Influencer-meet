@@ -83,22 +83,39 @@ Calculating...
 it will be a premium feature and it does not have any specific limits.
 it follows play as you go, and creates a budget based on usage.
 
-but there are usage charges.
 [Zoom Meet API Usage Charges](https://zoom.us/pricing/developer)
 
 [Zoom Meet API Reference](https://developers.zoom.us/docs/api/rest/reference/zoom-api/methods/#overview)
 
 [Youtuve API Guide](https://www.youtube.com/watch?v=MC_RVGAKQZ4)
 
-### AWS Server
+### Server
 
-### APIs for other websites (Instagram, Linkedin, Whatsapp)
+Will be Decided Before Project Development Starts
 
-### An App tracking API
+### Login/SignUp API
 
-### Marketing API to generate sales
+#### Google Login API
 
-### Marketing API to generate sales
+[Google Sign In API Reference Docs](https://developers.google.com/identity/sign-in/web/sign-in)
+
+#### Linkedin API
+
+[Linkedin API Documentation By Microsoft](https://learn.microsoft.com/en-us/linkedin/?context=linkedin%2Fcontext)
+
+### APIs for other websites (Instagram, Linkedin, Whatsapp) Post
+
+[Content Publishing API For instagram](https://developers.facebook.com/docs/instagram-platform/instagram-api-with-facebook-login/content-publishing/)
+
+[Linkedin OpenID Connect and Share](https://learn.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin-v2)
+
+[GFG Tutorial for sharing on Whatsapp](https://www.geeksforgeeks.org/how-to-add-whatsapp-share-button-on-a-website/)
+
+### SEO/Marketing/Tracking APIs
+
+MArketing and tracking will be in- house for now
+
+[SEO Solutions](https://rapidapi.com/collection/seo-api)
 
 # Project Plan
 
