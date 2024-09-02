@@ -56,12 +56,14 @@ It is a Website integrating professionals/influencers and their audience(From Di
 Google Meet API (it does not incur charges until we use it past its limits) : Free for 600 read and 100 write requests per minute per user
 
 AWS Server:
-t4g.medium (Location: Asia(Hyderabad))
-On Demand(hourly rate) - $0.0224 (INR 1.88)
-Cores - 2
-Memory - 4 GiB
-Storage - EBS Only
-Network Performance - Up to 5 Gigabit
+t4g.medium (Location: Asia(Hyderabad)),
+On Demand(hourly rate) - $0.0224 (INR 1.88),
+Cores - 2,
+Memory - 4 GiB,
+Storage - EBS Only,
+Network Performance - Up to 5 Gigabit,
+
+[Amazon EC2 Link](https://aws.amazon.com/ec2/pricing/on-demand/)
 
 Monthly Cost : INR 1372 (excluding data transfer and API cost)
 
@@ -115,6 +117,13 @@ Will be Decided Before Project Development Starts
 MArketing and tracking will be in- house for now
 
 [SEO Solutions](https://rapidapi.com/collection/seo-api)
+
+### Payment Gateway Integration
+
+we are going to use paypals payflow payment gateway
+
+[payflow integration Guide](https://developer.paypal.com/api/nvp-soap/payflow/integration-guide/)
+[payflow integration Guide PDF](https://www.paypalobjects.com/webstatic/en_US/developer/docs/pdf/pp_payflowlink_guide.pdf)
 
 # Project Plan
 
