@@ -55,8 +55,6 @@ It is a Website integrating professionals/influencers and their audience(From Di
 
 Google Meet API (it does not incur charges until we use it past its limits) : Free for 600 read and 100 write requests per minute per user
 
-Zoom Mee API (Usage Based) : Free for first 10000 minutes (166 hours)
-
 AWS Server:
 t4g.medium (Location: Asia(Hyderabad))
 On Demand(hourly rate) - $0.0224 (INR 1.88)
@@ -89,17 +87,6 @@ Monthly Cost : INR 1372 (excluding data transfer and API cost)
   (Used for spaces.create requests.)
   Per minute per project 100
   Per minute per user per project 10
-
-### Zoom API
-
-it will be a premium feature and it does not have any specific limits.
-it follows play as you go, and creates a budget based on usage.
-
-[Zoom Meet API Usage Charges](https://zoom.us/pricing/developer)
-
-[Zoom Meet API Reference](https://developers.zoom.us/docs/api/rest/reference/zoom-api/methods/#overview)
-
-[Youtuve API Guide](https://www.youtube.com/watch?v=MC_RVGAKQZ4)
 
 ### Server
 
