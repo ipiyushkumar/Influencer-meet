@@ -126,7 +126,7 @@ MArketing and tracking will be in- house for now
 
 ## Research Tasks
 
-1. API Documentation
+1. Video API Documentation
 2. Budgetung
 3. Competition Analysis
 4. Business Structure analysis
