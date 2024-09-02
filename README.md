@@ -53,7 +53,19 @@ It is a Website integrating professionals/influencers and their audience(From Di
 
 ## Budget
 
-Calculating...
+Google Meet API (it does not incur charges until we use it past its limits) : Free for 600 read and 100 write requests per minute per user
+
+Zoom Mee API (Usage Based) : Free for first 10000 minutes (166 hours)
+
+AWS Server:
+t4g.medium (Location: Asia(Hyderabad))
+On Demand(hourly rate) - $0.0224 (INR 1.88)
+Cores - 2
+Memory - 4 GiB
+Storage - EBS Only
+Network Performance - Up to 5 Gigabit
+
+Monthly Cost : INR 1372 (excluding data transfer and API cost)
 
 ### Google API
 
