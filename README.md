@@ -129,7 +129,6 @@ MArketing and tracking will be in- house for now
 
 1. API Documentation
 2. Budgetung
-3. Development Process Documentation
-4. Development process Tasking
-5. Competition Analysis
-6. Business Structure analysis
+3. Competition Analysis
+4. Business Structure analysis
+5. Development Process Documentation
