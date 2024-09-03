@@ -147,21 +147,31 @@ Personal Opinion : TopMate in its category the best site, oushining all the comp
 
 #### [Superpeer](https://superpeer.com)
 
+- raised: USD 10 Mil
+
 Superpeer specializes in community engagement and monetization for creators within various sectors such as education and coaching. The company offers tools for hosting livestreams, creating and selling online courses, managing one-on-one video calls, and facilitating digital product sales. Superpeer primarily serves creators looking to monetize their content and engage with their audience through subscriptions and interactive features. It was founded in 2020 and is based in Mountain View, California. In March 2024, Superpeer was acquired by Skillshare.
 
 #### [Canopy](https://underthecanopy.io/)
+
+- raised: USD 120k
 
 Canopy focuses on the creator economy. It provides an anonymous but verified community for content creators to share knowledge, grow their careers, and engage in discussions in a safe environment. The company primarily serves the content creation industry. It was founded in 2022 and is based in New York, New York.
 
 #### [Creator Stack](https://creatorstack.com/)
 
+- raised: USD 2 mil
+
 CreatorStack is a platform focused on empowering content creators within the creator economy sector. The company offers tools for creators to engage with their audience, monetize their content through royalties, and access resources to build and grow their creative ventures. CreatorStack primarily serves individuals and businesses in the creator economy, providing them with the means to manage their brand and audience relationships more independently. It was founded in 2019 and is based in Bengaluru, India.
 
 #### [Teachable](https://teachable.com/)
 
+- raised: USD 12.5 mil
+
 Teachable provides an online platform for freelancers and creators to create and sell online courses and coaching services. It offers a drag-and-drop builder, a customizable sales page builder, and direct integrations for users to optimize student engagement. The company develops a product named Vizia offering video solutions. It was formerly known as Fedora. The company was founded in 2014 and is based in New York, New York. in March 2020, Teachable was acquired by Hotmart.
 
 #### [Crowd Cast](https://crowdcast.io/)
+
+- raised: USD 120k
 
 Crowdcast is an online events platform operating in the technology sector. The company provides services that allow businesses and individuals to host a variety of events such as Q&As, workshops, live shows, meet-ups, webinars, online concerts, and online summits. Crowdcast primarily serves businesses, creators, and the general public. It was founded in 2015 and is based in San Francisco, California.
 
