@@ -164,3 +164,12 @@ Teachable provides an online platform for freelancers and creators to create and
 #### [Crowd Cast](https://crowdcast.io/)
 
 Crowdcast is an online events platform operating in the technology sector. The company provides services that allow businesses and individuals to host a variety of events such as Q&As, workshops, live shows, meet-ups, webinars, online concerts, and online summits. Crowdcast primarily serves businesses, creators, and the general public. It was founded in 2015 and is based in San Francisco, California.
+
+### Business Structure Analysis
+
+1. We are going to structure our business as Commission based with a standard commission and a premium commission.
+2. The website will Scale depending on the number of the users on the platform.
+3. Since its a Business to Business Platform the commission are guranteed of the Businesses accessing the website bring in the audience themselves. it saves the hassle of growing the SEO ourselves.
+4. The Operation Cost of the website is minimal since we will be paying only the website hosting costs and Payment gateway cost (which also has a free tier). Heavy loading is done by the Google Meet Platform.
+
+- Personal Opinion: All n all this website if created correctly should bring in revenue but we need to be ahead of the competition in terms of UI and features.
