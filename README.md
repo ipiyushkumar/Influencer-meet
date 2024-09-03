@@ -145,6 +145,8 @@ we are going to use paypals payflow payment gateway
 
 Personal Opinion : TopMate in its category the best site, oushining all the competition. But still the competition provides same functionality with a different theme for other sectors such as online coaching and selling courses.
 
+this year its valuation has gone upto USD 3.85 mil
+
 #### [Superpeer](https://superpeer.com)
 
 - raised: USD 10 Mil
